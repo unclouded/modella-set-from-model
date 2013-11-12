@@ -1,0 +1,22 @@
+{
+  "name": "modella-set-from-model",
+  "description": "Plugin for modella that allows models to be set from other models)",
+  "private": true,
+  "version": "0.0.1",
+  "author": "Simon Hambly",
+  "main": "./index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~1.8.1",
+    "modella": "git://github.com/unclouded/modella#nesting",
+    "expect.js": "~0.2.0"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT"
+}
