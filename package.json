@@ -2,7 +2,7 @@
   "name": "modella-set-from-model",
   "description": "Plugin for modella that allows models to be set from other models)",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.1.1",
   "author": "Simon Hambly",
   "main": "./index.js",
   "scripts": {
